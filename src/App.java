@@ -9,7 +9,7 @@ public class App {
 		System.out.println(sum(3));
 		System.out.println(sum(4));
 		System.out.println(sum(5));
-
+		System.out.println("Adding code");
 	}
 
 	public static int sum(int n) {
