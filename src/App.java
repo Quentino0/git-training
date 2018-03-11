@@ -10,6 +10,7 @@ public class App {
 		System.out.println(sum(4));
 		System.out.println(sum(5));
 		System.out.println("Adding code");
+		System.out.println("Adding code from GitHub");
 	}
 
 	public static int sum(int n) {
